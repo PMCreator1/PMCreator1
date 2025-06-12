@@ -6,7 +6,7 @@
 
 - <b>Secure Plus Claim</b>
   - [Business Case]
-(https://github.com/joshmadakor1/Algorithms-Practice)
+(https://github.com/PMCreator1/Secure-Plus-Claim)
   - [Project Charter, WBS & Gantt Chart]
 (https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Digital Transformation in the Power Sector</b>
