@@ -11,7 +11,7 @@
   - [Transforming AEDC for the Future]
 (https://www.linkedin.com/feed/update/urn:li:ugcPost:7338897192662765568/) 
 - <b>CBMT Program Business Case</b>
-  - [Capacity Building of Master Trainers - A Health & Wellness School Program for Teachers](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Capacity Building of Master Trainers - A Health & Wellness School Program for Teachers](https://github.com/PMCreator1/Capacity-Building-of-Master-Trainers)
 
 <h2> 🤳 Connect with me:</h2>
 
