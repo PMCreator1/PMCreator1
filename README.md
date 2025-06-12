@@ -5,10 +5,8 @@
 <h2>👨‍💻 Project Management Portfolio:</h2>
 
 - <b>Secure Plus Claim</b>
-  - [Business Case]
+  - [Business Case, Project Charter, WBS & Gantt Chart]
 (https://github.com/PMCreator1/Secure-Plus-Claim)
-  - [Project Charter, WBS & Gantt Chart]
-(https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Digital Transformation in the Power Sector</b>
   - [Transforming AEDC for the Future]
 (https://www.linkedin.com/feed/update/urn:li:ugcPost:7338897192662765568/) 
