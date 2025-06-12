@@ -11,7 +11,6 @@
   - [Transforming AEDC for the Future](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>CBMT Program Business Case</b>
   - [Capacity Building of Master Trainers - A Health & Wellness School Program for Teachers](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)]
 
 <h2> 🤳 Connect with me:</h2>
 
