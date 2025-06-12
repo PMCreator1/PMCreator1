@@ -10,7 +10,8 @@
   - [Project Charter, WBS & Gantt Chart]
 (https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Digital Transformation in the Power Sector</b>
-  - [Transforming AEDC for the Future](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Transforming AEDC for the Future]
+(https://www.linkedin.com/feed/update/urn:li:ugcPost:7338897192662765568/) 
 - <b>CBMT Program Business Case</b>
   - [Capacity Building of Master Trainers - A Health & Wellness School Program for Teachers](https://github.com/joshmadakor1/Sentinel-Lab)
 
