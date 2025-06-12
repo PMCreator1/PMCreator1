@@ -1,5 +1,7 @@
 <h1>Hi, I'm Mordi Kelechi! <br/><a href="https://www.linkedin.com/in/mordi-kelechi/">Agile Project Manager</a>, <a href="https://www.upwork.com/freelancers/~010b4b59c767b1e23e">Freelancer</a></h1>
 
+<h3>I am a digital transformation enthusiast, who is passionate about creating value in the smallest way possible. I enjoy team collaboration, not minding whether we are across borders.</h3>
+
 <h2>👨‍💻 Project Management Portfolio:</h2>
 
 - <b>Secure Plus Claim</b>
