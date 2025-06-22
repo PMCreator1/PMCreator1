@@ -17,7 +17,7 @@ Hi! I’m Kelechi – a remote-first Agile Project Manager passionate about tran
 | Project Title | Description | Link |
 |---------------|-------------|------|
 | Agile Sprint System | Complete backlog-to-retro workflow | [View](https://github.com/PMCreator1/Agile-Sprint) |
-| Campaign Dashboard | Google Sheets + Tableau report for mock marketing data | [View](https://github.com/PMCreator1/Campaign-Dashboard) |
+| Campaign Dashboard | Google Sheets + Tableau report for mock marketing data | [View](https://public.tableau.com/views/Dashboard_17506074789140/CampaignPerformanceDashboard-Q22024?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 | CRM Integration Tracker | End-to-end mock Salesforce rollout | [View](#) |
 | Go-Live UAT Checklist | Templates for testing & stakeholder sign-off | [View](#) |
 | Communication Playbook | RACI, meeting cadences, templates | [View](#) |
