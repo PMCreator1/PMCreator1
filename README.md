@@ -8,7 +8,7 @@ Hi! I’m Kelechi – a remote-first Agile Project Manager passionate about tran
 
 | Project Management | Data & Reporting     | CRM & Automation     | Collaboration       |
 |--------------------|----------------------|-----------------------|----------------------|
-| Jira, Trello, Asana| Excel, Power BI      | Salesforce, HubSpot   | Notion, Slack, Miro  |
+| Jira, Trello, Asana|Google Sheets & Tableau   | Salesforce, HubSpot   | Notion, Slack, Miro  |
 
 ---
 
@@ -17,7 +17,7 @@ Hi! I’m Kelechi – a remote-first Agile Project Manager passionate about tran
 | Project Title | Description | Link |
 |---------------|-------------|------|
 | Agile Sprint System | Complete backlog-to-retro workflow | [View](https://github.com/PMCreator1/Agile-Sprint) |
-| Campaign Dashboard | Excel + BI report for mock marketing data | [View](#) |
+| Campaign Dashboard | Google Sheets + Tableau report for mock marketing data | [View](https://github.com/PMCreator1/Campaign-Dashboard) |
 | CRM Integration Tracker | End-to-end mock Salesforce rollout | [View](#) |
 | Go-Live UAT Checklist | Templates for testing & stakeholder sign-off | [View](#) |
 | Communication Playbook | RACI, meeting cadences, templates | [View](#) |
