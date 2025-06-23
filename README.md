@@ -18,6 +18,7 @@ Hi! I’m Kelechi – a remote-first Agile Project Manager passionate about tran
 |---------------|-------------|------|
 | Agile Sprint System | Complete backlog-to-retro workflow | [View](https://github.com/PMCreator1/Agile-Sprint) |
 | Campaign Dashboard | Google Sheets + Tableau report for mock marketing data | [View](https://public.tableau.com/app/profile/kelechi.mordi/viz/Dashboard_17506074789140/Dashboard1?publish=yes) |
+| FitFi Product Launch | Jira, Notion, Markdown, Google Sheets, Google Diagram | [View](https://github.com/PMCreator1/FitFi-Product-Launch-) |
 | CRM Integration Tracker | End-to-end mock Salesforce rollout | [View](#) |
 | Go-Live UAT Checklist | Templates for testing & stakeholder sign-off | [View](#) |
 | Communication Playbook | RACI, meeting cadences, templates | [View](#) |
